@@ -1,0 +1,11 @@
+CHALLENGES
+
+- User Interface Design: Creating an intuitive and user-friendly interface can be challenging, and you may need to iterate multiple times before arriving at a design that is both functional and aesthetically pleasing.
+
+- Performance Issues: Mobile applications need to be optimized for speed and efficiency, and you may face challenges in ensuring that your app runs smoothly on a variety of devices and operating systems.
+
+- Security: With the rise of online transactions, it is important to ensure that your application is secure and that customer data is protected from potential threats.
+
+- Integration with Third-party Services: Your application will rely on third-party services such as Uber for delivery and payment gateways for online transactions. Integrating these services seamlessly can be a challenge, especially if there are changes to their APIs.
+
+- Testing and Quality Assurance: Testing and QA are critical to ensure that your app works as intended, and it can be challenging to cover all possible scenarios and edge cases.
